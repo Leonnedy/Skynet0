@@ -1,4 +1,4 @@
-const chentai = () => { 
+const chentai = (prefix) => { 
 	return `
 	
 	*ola👋👋* *Me siento como un marrano, pero ahi les dejo unos codes 😌*
